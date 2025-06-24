@@ -47,7 +47,7 @@
 ![MovieForm4](./screenshots/10_Movie_form_4.jpg)
 ![ActorForm](./screenshots/11_Actor_form.jpg)
 ![DirectorForm](./screenshots/12_Director_form.jpg)
-![Genres](./screenshots/13_Genres.jpg
+![Genres](./screenshots/13_Genres.jpg)
 ![Locations](./screenshots/14_Location.jpg)
 
 </details>
