@@ -1,7 +1,7 @@
 # Cinema Manager
 
 <p align="center">
-  <img src="./screenshots/logo.png" alt="Cinema Manager" style="max-width: 80%;">
+  <img src="./screenshots/intro.gif" alt="Cinema Manager Intro" style="max-width: 80%;">
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/sytnikovzp/cinema-manager" alt="Last Commit">
